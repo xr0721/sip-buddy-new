@@ -1,0 +1,6 @@
+{
+  "name": "Sip Buddy",
+  "description": "A playful, friendly bar-drink recommendation buddy that helps adults order drinks with confidence using everyday language.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
